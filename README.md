@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niel
-- 👀 I’m interested in Java Language.
-- 🌱 I’m currently learning Python, JS and XML.
+- 👀 I’m interested in Web developer.
+- 🌱 I’m currently learning React and Laravel.
 - 🤖 Skilled in Web Development and Editing.
 - 💞️ I’m looking to collaborate on a best and top company.
 - 📫 How to reach me: send me an email to macaraigeverniel@gmail.com
