@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niel
-- 👀 I’m interested in Web developer.
+- 👀 I’m a FullStack Developer.
 - 🌱 I’m currently learning React and Laravel.
 - 🤖 Skilled in Web Development and Editing.
 - 💞️ I’m looking to collaborate on a best and top company.
